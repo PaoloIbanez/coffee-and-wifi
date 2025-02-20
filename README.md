@@ -65,7 +65,7 @@ Navigate to [**http://127.0.0.1:5000**](http://127.0.0.1:5000) to use the app.
 
 ---
 
-## 🛠 **Possible Improvements I could make, or you could make**
+## 🛠 **Possible Improvements I Could Make, or You Could Make**
 
 - Add user authentication.
 - Implement a database (e.g., SQLite) instead of a CSV file.
