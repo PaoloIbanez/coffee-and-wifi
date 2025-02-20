@@ -73,11 +73,5 @@ Navigate to [**http://127.0.0.1:5000**](http://127.0.0.1:5000) to use the app.
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the MIT License.
-
----
-
 Enjoy finding the best cafes to work at with WiFi, coffee, and power availability!
 
